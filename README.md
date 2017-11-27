@@ -16,3 +16,9 @@ origin  path/to/repository (push)
 mimunoz@wmv1pere1 MINGW32 /c/workspace/SIMAC (master)
 $ git pull origin master
 ```
+
+
+###### URL's
+
+1. https://walmart.visualstudio.com/_projects
+2. https://fds.wal-mart.com/EDLP/store/requestapplications
